@@ -1,0 +1,1 @@
+根据给出的qrels文本和各.eval文件，依次根据P@10、R@50、MAP、nDCG@10、nDCG@20来评估IR系统。
